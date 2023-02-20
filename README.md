@@ -3,4 +3,5 @@ First project of course ENAE788M used to simulate the PX4 autopilot framework us
 
 The simulation output videos have been divided in three segments due to size. The simulation outputs looks like as shown below:
 
-![](https://github.com/darshit-desai/Offboad-C-code-controlling-drones-motion-simulated-in-PX4-Software-in-the-loop-simulation/blob/main/img/StartupandTakeoff.mp4)
+
+
