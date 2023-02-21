@@ -4,4 +4,17 @@ First project of course ENAE788M used to simulate the PX4 autopilot framework us
 The simulation output videos have been divided in three segments due to size. The simulation outputs looks like as shown below:
 
 
+## Startup of the jmavsim environment and takeoff:
+
+https://user-images.githubusercontent.com/36150235/220214897-da5997c8-5a04-48f7-8ba5-4a134ff1dcfc.mp4
+
+
+## Startup of the ROS Offboard script and switching to offboard from GCS:
+
+https://user-images.githubusercontent.com/36150235/220214527-266c403b-c5f4-4334-bbe3-2adea936def9.mp4
+
+
+## Killing of the offboard node failsafe activation and landing:
+
+https://user-images.githubusercontent.com/36150235/220215202-60eda11b-9be9-4d62-874e-7adf1d3bc246.mp4
 
