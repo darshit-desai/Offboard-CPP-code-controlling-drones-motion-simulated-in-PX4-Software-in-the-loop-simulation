@@ -1,6 +1,8 @@
 /**
- * @file offb_node.cpp
+ * @file offboard_example.cpp
+ * @author Darshit Desai(Darshit@umd.edu) ,Shivam Sehgal(ssehgal7@umd.edu)
  * @brief Offboard control example node, written with MAVROS version 0.19.x, PX4 Pro Flight
+ * 
  * Stack and tested in Gazebo SITL
  * 
  * from https://docs.px4.io/master/en/ros/mavros_offboard.html
